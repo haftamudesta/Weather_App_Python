@@ -19,3 +19,19 @@ input,button{
         padding: 1rem;
         border-radius: 4rem;
 }
+button {
+        background: blue;
+        color: bisque;
+        cursor: pointer;
+}
+.weather-app {
+        text-decoration: underline;
+        color: gray;
+        font-weight: 700;
+}
+
+.city-weather{
+        color: blueviolet;
+        font-weight: 700;
+        text-decoration: darkgreen;
+}
